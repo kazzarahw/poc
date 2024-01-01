@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# MalTrail < v0.53 - Unauthenticated RCE
+# MalTrail <= v0.53 - Unauthenticated RCE
 # By: https://github.com/kazzarahw
 # Ref: https://huntr.com/bounties/be3c5204-fbd9-448d-b97c-96a8d2941e87/
 
